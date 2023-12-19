@@ -3,6 +3,7 @@
 inf bigdata
 
 # how-to
-jalankan command pada buat_topic_pubg_command.txt dalam jupyter
-Jalankan producer dalam jupyter    (kirim messages)
-Jalankan consumer dalam jupyter    (terima messages)
+1. jalankan command pada buat_topic_pubg_command.txt dalam jupyter
+2. Jalankan producer dalam jupyter    (kirim messages)
+3. Jalankan consumer dalam jupyter    (terima messages)
+
